@@ -5,7 +5,7 @@ uppercase = string.ascii_uppercase
 lowercase = string.ascii_lowercase
 numbers = string.digits
 
-num = 0
+num = 
 desc = ""
 
 while num <= 10000:
